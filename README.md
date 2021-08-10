@@ -2,7 +2,7 @@
 
 <h1 align="center"  > The Sparks Foundation #GRIPAUG21</h1>
 <h2 align="center"  > Author: Laxman B</h2>
-<h2 align="center" style="color:#8100cc;" >Task #6: Iris dataset classification using decision tree </h2> <br>
+<h2 align="center" style="color:#8100cc;" >Task #6: Prediction using decision tree algorithm </h2> <br>
 
 Iris is a flowering plant with showy flowers. Our task is train a decision tree classifier model that would classify the dataset and predict the appropriate specicis for the given input. The dataset contains information about three species of this plant. so, our output must be among one of these three species. <br><br>
 The iris dataset has four attributes namely:
